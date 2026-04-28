@@ -1,4 +1,4 @@
-O estudo demográfico compara a cidade de Colatina-ES com o Brasil, em busca de identificar como a cidade se classifica, em termos de idade, sexo, mortalidade, natalidade e fecundidade, em comparação com o país. Foi comparado as seguintes variáveis:
+O estudo demográfico compara a cidade de Colatina-ES com o Brasil, em busca de identificar como a cidade se classifica, em termos de idade, sexo, mortalidade, natalidade e fecundidade, em relação ao país. Foi comparado as seguintes variáveis:
 - Pirâmide etária
 - Razão de sexo
 - Idade mediana
